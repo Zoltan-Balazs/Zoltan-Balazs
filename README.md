@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zoltan-Balazs
-- 👀 I’m interested in Embeded Systems, Cyber Security & Statistics
-- 🌱 I’m currently learning Rust & Kotlin
+- 👀 I’m interested in Embeded Systems, Cyber Security, Computer Graphics & Statistics
+- 🌱 I’m currently learning Rust & GLSL
 - 💞️ I’m looking to collaborate on anything Rust related 🦀
 - 📫 You can reach me at [git at zoltanbalazs dot com](mailto:git@zoltanbalazs.com)
 
